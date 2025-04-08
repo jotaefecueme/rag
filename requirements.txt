@@ -1,8 +1,8 @@
 fastapi
 uvicorn
 langchain
-langchain-community
-langchain-core
+langchain_community
+langchain_core
 sentence-transformers
 faiss-cpu
 pydantic

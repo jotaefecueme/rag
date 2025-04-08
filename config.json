@@ -1,0 +1,10 @@
+{
+  "DOCUMENTS_FOLDER": "document_directory",
+  "VECTORSTORE_FOLDER": "vectorstore_directory",
+  "SUPPORTED_FILE_EXTENSIONS": [".pdf", ".txt"],
+  "EMBEDDING_MODEL_NAME": "all-MiniLM-L6-v2",
+  "LLM_MODEL_NAME": "llama3.1",
+  "RETRIEVAL_TOP_K": 1,
+  "TEMPERATURE": 0,
+  "KEEP_ALIVE": 3600
+}
